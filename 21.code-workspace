@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../backup_index"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../handlers"
+		},
+		{
+			"path": "../views"
+		}
+	]
+}
